@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "shared"]
+	url = C:/Users/Lycoris/Desktop/pokemon
+	fetch = +refs/heads/*:refs/remotes/shared/*
+[remote "origin"]
+	url = https://github.com/kumura/first_app.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
